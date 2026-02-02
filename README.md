@@ -162,8 +162,11 @@ Add automated retention alerts
 👤 Author
 
 Name: Ayyanar M
+
 Role: Power BI Developer
+
 Domain: Banking Analytics
+
 Skills: Power BI, DAX, Excel, SQL, Data Modeling , Power BI Service.
 
 ⭐ Conclusion
